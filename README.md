@@ -19,7 +19,7 @@ Meu objetivo é atuar como desenvolvedor backend e construir soluções prática
 
 ## 🌐 Acesse o portfólio
 
-👉 https://arthurfernandesdev.github.io/portfolio
+👉 https://arthurfernandesdev.github.io/Portfolio/
 
 ---
 
